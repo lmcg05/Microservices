@@ -1,12 +1,12 @@
-package com.tyler.account.rest;
+package com.laurence.account.rest;
 
-import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.laurenceweb.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.tyler.account.data.domain.Prize;
-import com.tyler.account.service.AccountPrizeService;
+import com.laurence.account.data.domain.Prize;
+import com.laurence.account.service.AccountPrizeService;
 
 @RestController
 @RequestMapping("/account")
