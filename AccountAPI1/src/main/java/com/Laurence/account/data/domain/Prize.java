@@ -1,4 +1,4 @@
-package com.tyler.account.data.domain;
+package com.laurence.account.data.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

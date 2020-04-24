@@ -1,4 +1,4 @@
-package com.tyler.account.data.repo;
+package com.laurence.account.data.repo;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

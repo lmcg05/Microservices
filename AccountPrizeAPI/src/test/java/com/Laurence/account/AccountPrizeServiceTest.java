@@ -1,4 +1,4 @@
-package com.tyler.account;
+package com.laurence.account;
 
 public class AccountPrizeServiceTest {
 

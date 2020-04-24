@@ -1,4 +1,4 @@
-package com.tyler.account.rest;
+package com.laurence.account.rest;
 
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

@@ -1,4 +1,4 @@
-package com.tyler.account.config;
+package com.laurence.account.config;
 
 import org.apache.activemq.ActiveMQConnectionFactory;
 import org.springframework.context.annotation.Bean;
