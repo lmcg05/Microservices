@@ -1,4 +1,4 @@
-package com.tyler.account.service;
+package com.laurence.account.service;
 
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
