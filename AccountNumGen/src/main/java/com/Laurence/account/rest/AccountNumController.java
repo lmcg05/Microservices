@@ -1,10 +1,10 @@
-package com.tyler.account.rest;
+package com.laurence.account.rest;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.tyler.account.service.AccountNumGenService;
+import com.laurence.account.service.AccountNumGenService;
 
 @RestController
 @RequestMapping("/account")
