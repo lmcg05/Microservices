@@ -1,8 +1,8 @@
-package com.tyler.account.service;
+package com.laurence.account.service;
 
 import org.springframework.stereotype.Service;
 
-import com.tyler.account.data.domain.Prize;
+import com.laurence.account.data.domain.Prize;
 
 @Service
 public class AccountPrizeService {
