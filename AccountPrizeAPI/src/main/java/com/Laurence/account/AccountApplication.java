@@ -1,4 +1,4 @@
-package com.tyler.account;
+package com.laurence.account;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
